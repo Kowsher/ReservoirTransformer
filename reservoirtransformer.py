@@ -1,6 +1,7 @@
 # coding=utf-8
 
 """PyTorch Reservoir Transformer model."""
+"""Author: Md Kowsher."""
 
 
 import math
