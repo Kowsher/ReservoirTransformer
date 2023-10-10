@@ -1,8 +1,9 @@
+
+""" Author: Md Kowsher"""
 from tqdm.auto import tqdm
 import numpy as np
 import torch
 from torch.utils.data import Dataset, DataLoader
-# prepare data for lstm
 from sklearn.preprocessing import StandardScaler
 from pandas import read_csv
 from pandas import DataFrame
