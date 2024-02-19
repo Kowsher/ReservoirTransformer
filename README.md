@@ -22,14 +22,7 @@ In Chaos, a minor divergence between two initial conditions exhibits exponential
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 ### Setup
 We conduct our experiment with Anaconda3. If you have installed Anaconda3, then create the environment for P-tuning v2:
